@@ -1,22 +1,40 @@
-# 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 <a href="https://tkishioru.github.io/W_leakna/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+     
+<strong>Hi, I am Niko!👋 </strong>
 
-If you want to know me more. Please click here >> 
-## Status
-<!--<a href="https://github.com/tkishioru/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKishioru&langs_count=8" />
-</a>
--->
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKishioru&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my study 😛</small>
-  <br />
-  <br />
-</div>
+<strong>from China🇨🇳. </strong>
 
-<!--
-## About Me
+</pre> 
 
-![GitHub metrics](https://metrics.lecoq.io/TKishioru) 
-![Profile views](https://gpvc.arturio.dev/TKishioru)  
--->
+<img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+
+### ⭐️ &nbsp;Github Star
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Niko&count_private=true&show_icons=true"/>
+
+
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
+![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-826381203@qq.com-blue?style=flat-square&logo=gmail"></a>
+
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
